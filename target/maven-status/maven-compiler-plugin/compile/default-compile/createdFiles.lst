@@ -1,0 +1,9 @@
+com\dropwizard\app\models\Status.class
+com\dropwizard\app\repository\MongoDBHealthCheck.class
+com\dropwizard\app\models\Rating.class
+com\dropwizard\app\controller\BookController.class
+com\dropwizard\app\DropwizardApp.class
+com\dropwizard\app\repository\MongoDBConfiguration.class
+com\dropwizard\app\service\BookService.class
+com\dropwizard\app\repository\MongoDBManaged.class
+com\dropwizard\app\models\Book.class
